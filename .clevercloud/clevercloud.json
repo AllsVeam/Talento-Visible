@@ -1,0 +1,10 @@
+{
+  "deploy": {
+    "composer": {
+      "install": ["--no-dev", "--optimize-autoloader"]
+    },
+    "hooks": {
+      "postdeploy": "php artisan key:generate --force"
+    }
+  }
+}
