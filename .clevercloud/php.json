@@ -1,0 +1,4 @@
+{
+  "php_version": "8.3",
+  "extensions": ["mbstring", "mysqli", "pdo_mysql", "openssl", "curl", "json", "tokenizer", "xml"]
+}
