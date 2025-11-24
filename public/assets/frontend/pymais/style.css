@@ -1,0 +1,39 @@
+@import "section-css/reset.css";
+@import "section-css/header.css";
+@import "section-css/hero.css";
+@import "section-css/about.css";
+@import "section-css/category.css";
+@import "section-css/course.css";
+@import "section-css/brand.css";
+@import "section-css/team.css";
+@import "section-css/funfact.css";
+@import "section-css/faq.css";
+@import "section-css/testimonial.css";
+@import "section-css/video.css";
+@import "section-css/blog.css";
+@import "section-css/group-study.css";
+@import "section-css/service.css";
+@import "section-css/pricing.css";
+@import "section-css/event.css";
+@import "section-css/product.css";
+@import "section-css/breadcrumbs.css";
+@import "section-css/contact.css";
+@import "section-css/auth.css";
+@import "section-css/error.css";
+@import "section-css/mobile-menu.css";
+@import "section-css/footer.css";
+
+@font-face {
+    font-family: "Segoe UI";
+    src: url('fonts/segoeui.woff2') format('woff2'),
+         url('fonts/segoeuii.woff2') format('woff2'),
+         url('fonts/segoeuib.woff2') format('woff2'),
+         url('fonts/segoeuiz.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: "Segoe UI", sans-serif;
+}
