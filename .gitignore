@@ -10,7 +10,8 @@
 /public/uploads/*.png
 /public/uploads/*.mp4
 /public/uploads
-/storage/*.key
+/public/uploads
+/public/assets/*.sql
 /vendor
 .env
 .env.backup
